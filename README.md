@@ -1,4 +1,4 @@
-﻿# TX Text Control Skills
+﻿# TX Text Control ServerTextControl and MailMerge Skills
 
 ## About This Repository
 
